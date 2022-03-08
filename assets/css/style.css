@@ -1,3 +1,5 @@
+/* I have intentionally kept the old code as commend out to show the changes I've made*/
+
 /* These are the approved style for the site */
 
 * {
@@ -87,7 +89,7 @@ p {
 }
 
 /* Search engine optimization display property and colors */
-.search-engine-optimization {
+.x {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -97,24 +99,24 @@ p {
 }
 
 /* Online reputation management display property and colors */
-.online-reputation-management {
+/*.online-reputation-management {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
+}*/
 
 /* Social media marketing display property and colors */
-.social-media-marketing {
+/* .social-media-marketing { 
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #0072bb;
   color: #ffffff;
-}
+}*/
 
 /* Search engine optimization image size*/
 div.content img {
@@ -135,6 +137,7 @@ div.content h2 {
   height: 100%;
   font-family: "Gill Sans", "Gill Sans MT", Calibri, "Trebuchet MS", sans-serif;
   background-color: #2178ab;
+  color: #ffffff;
 }
 
 /* Benefits display elements */
