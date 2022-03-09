@@ -25,14 +25,14 @@ body {
 section.header h1 {
   display: inline-block;
   font-size: 48px;
+  color: #ffffff;
+}
+
+ .header h1 .seo {  
   color: #d9dcd6;
 }
 
-/* .header h1 .seo { 
-  color: #d9dcd6;
-}*/
-
-.header section {
+.header nav {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -41,7 +41,7 @@ section.header h1 {
 }
 
 /*  Display elemnets for unordered list of links */
-.header section ul li {
+.header nav ul li {
   list-style-type: none;
   display: inline-block;
   margin-left: 25px;
