@@ -22,7 +22,7 @@ body {
   color: #ffffff;
 }
 
-div.header h1 {
+section.header h1 {
   display: inline-block;
   font-size: 48px;
   color: #d9dcd6;
@@ -32,7 +32,7 @@ div.header h1 {
   color: #d9dcd6;
 }*/
 
-.header div {
+.header section {
   padding-top: 15px;
   margin-right: 20px;
   float: right;
@@ -41,7 +41,7 @@ div.header h1 {
 }
 
 /*  Display elemnets for unordered list of links */
-.header div ul li {
+.header section ul li {
   list-style-type: none;
   display: inline-block;
   margin-left: 25px;
@@ -89,7 +89,7 @@ p {
 }
 
 /* Search engine optimization display property and colors */
-.x {
+.media {
   margin-bottom: 20px;
   padding: 50px;
   height: 300px;
@@ -119,11 +119,11 @@ p {
 }*/
 
 /* Search engine optimization image size*/
-div.content img {
+section.content img {
   max-height: 200px;
 }
 
-div.content h2 {
+section.content h2 {
   margin-bottom: 20px;
   font-size: 36px;
 }
@@ -141,14 +141,14 @@ div.content h2 {
 }
 
 /* Benefits display elements */
-div.benefits h3 {
+section.benefits h3 {
   margin-bottom: 32px;
   color: #ffffff;
   margin-bottom: 10px;
   text-align: center;
 }
 
-div.benefits img {
+section.benefits img {
   display: block;
   margin: 10px auto;
   max-width: 150px;
